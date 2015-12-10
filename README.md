@@ -13,6 +13,7 @@ https://aws.amazon.com/architecture/icons/
 - AWS IOT Icons
 - AWS Security and Identity Icons
 - AWS Storage and Content Delivery
+- AWS Database
 
 ###Changelog
 
