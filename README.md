@@ -14,6 +14,8 @@ https://aws.amazon.com/architecture/icons/
 - AWS Security and Identity Icons
 - AWS Storage and Content Delivery
 - AWS Database
+- AWS Developer tools
+- AWS Enterprise Applications
 
 ###Changelog
 
