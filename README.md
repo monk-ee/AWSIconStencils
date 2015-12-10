@@ -18,3 +18,9 @@ https://aws.amazon.com/architecture/icons/
 
     1.0
         First Release only the AWS IOT Icons
+        
+    1.1 
+        The right branch released
+        
+    1.2
+        Extra templates
