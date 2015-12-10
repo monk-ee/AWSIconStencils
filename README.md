@@ -11,6 +11,7 @@ https://aws.amazon.com/architecture/icons/
 ###Templates
 
 - AWS IOT Icons
+- AWS Security and Identity Icons
 
 
 ###Changelog
